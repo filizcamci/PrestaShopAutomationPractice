@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15445" started-at="2018-06-24T23:07:06Z" finished-at="2018-06-24T23:07:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15445" started-at="2018-06-24T23:07:06Z" finished-at="2018-06-24T23:07:21Z">
+      <class name="com.prestashop.tests.PrestaShopAutomation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.prestashop.tests.PrestaShopAutomation@6a41eaa2]" name="setUp" is-config="true" duration-ms="8088" started-at="2018-06-24T23:07:06Z" finished-at="2018-06-24T23:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="blankEmail()[pri:0, instance:com.prestashop.tests.PrestaShopAutomation@6a41eaa2]" name="blankEmail" duration-ms="2189" started-at="2018-06-24T23:07:14Z" finished-at="2018-06-24T23:07:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankEmail -->
+        <test-method status="PASS" signature="blankPassword()[pri:0, instance:com.prestashop.tests.PrestaShopAutomation@6a41eaa2]" name="blankPassword" duration-ms="1815" started-at="2018-06-24T23:07:16Z" finished-at="2018-06-24T23:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankPassword -->
+        <test-method status="PASS" signature="invalidEmail()[pri:0, instance:com.prestashop.tests.PrestaShopAutomation@6a41eaa2]" name="invalidEmail" duration-ms="1492" started-at="2018-06-24T23:07:18Z" finished-at="2018-06-24T23:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmail -->
+        <test-method status="PASS" signature="wrongCredentials()[pri:0, instance:com.prestashop.tests.PrestaShopAutomation@6a41eaa2]" name="wrongCredentials" duration-ms="1803" started-at="2018-06-24T23:07:19Z" finished-at="2018-06-24T23:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongCredentials -->
+        <test-method status="PASS" signature="closing()[pri:0, instance:com.prestashop.tests.PrestaShopAutomation@6a41eaa2]" name="closing" is-config="true" duration-ms="43" started-at="2018-06-24T23:07:21Z" finished-at="2018-06-24T23:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- com.prestashop.tests.PrestaShopAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
